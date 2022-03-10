@@ -36,7 +36,7 @@ funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces
 Codigo:
 
 
-![imagen]()
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/codigo.png)
 
 
 Resultado:
