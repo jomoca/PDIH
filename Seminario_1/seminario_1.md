@@ -5,7 +5,7 @@
 
 Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).
 
-![Alt](./img/Captura de pantalla de 2022-03-07 11-13-10.png?raw=true)
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/Captura%20de%20pantalla%20de%202022-03-07%2011-13-10.png)
 
 
 Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se
