@@ -5,6 +5,15 @@
 
 Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).
 
+
+Proceso de instalación:
+
+![iamagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/instalacionDosBox.png)
+
+
+Una vez instalado, probamos un juego:
+
+
 ![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/Captura%20de%20pantalla%20de%202022-03-07%2011-13-10.png)
 
 
@@ -14,5 +23,23 @@ compilar no sólo lenguaje C, sino también ensamblador). Añadir a la variable 
 inicio el directorio “bin” donde se encuentra el ejecutable BC.EXE
 
 
+Configuración del fichero:
+
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/archivoConfiguracion.png)
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/Captura%20de%20pantalla%20de%202022-03-10%2021-24-53.png)
+
+
 Crear el ejemplo “Hola mundo” en ensamblador, compilarlo y comprobar su
 funcionamiento. A continuación incluir un bucle para mostrar el mensaje 7 veces.
+
+
+Codigo:
+
+
+![imagen]()
+
+
+Resultado:
+
+
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/Captura%20de%20pantalla%20de%202022-03-10%2022-21-36.png)
