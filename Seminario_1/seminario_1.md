@@ -1,6 +1,6 @@
-#** Seminario 1**
+# Seminario 1
 
-##** Ejercicios**
+## Ejercicios
 
 
 **1.Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).**
