@@ -5,6 +5,8 @@
 
 Instalar el software DOSBox y ejecutar aplicaciones de MS-DOS (p.ej. juegos clásicos).
 
+![Alt](./img/Captura de pantalla de 2022-03-07 11-13-10.png?raw=true)
+
 
 Configurar el inicio de DOSBox para que monte en la unidad C: el directorio donde se
 encuentra el entorno de programación Borland C (que incluye las herramientas para
