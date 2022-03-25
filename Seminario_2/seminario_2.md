@@ -8,7 +8,7 @@
 Configuración del fichero:
 
 
-![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/archivoConfiguracion.png)
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_2/img/archivoConfiguracion.png)
 
 
 ![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/Captura%20de%20pantalla%20de%202022-03-10%2021-24-53.png)
