@@ -17,6 +17,8 @@ Configuración del fichero:
 
 **2. Realizar un programa en lenguaje C que llame a la función de cambio de modo de vídeo y comprobar su funcionamiento.**
 
+c
+´´´
 void selecciona_modo_video(BYTE modo){
         union REGS inregs, outregs;
         inregs.h.ah = 0x00;
@@ -24,7 +26,7 @@ void selecciona_modo_video(BYTE modo){
         int86(0x10,&inregs,&outregs);
         return;
 }
-
+´´´
 
 ![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/archivoConfiguracion.png)
 
