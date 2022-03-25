@@ -25,7 +25,7 @@ void selecciona_modo_video(BYTE modo){
         int86(0x10,&inregs,&outregs);
         return;
 }
-´´´
+```
 
 ![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/archivoConfiguracion.png)
 
