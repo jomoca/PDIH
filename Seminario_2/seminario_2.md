@@ -27,13 +27,13 @@ void selecciona_modo_video(BYTE modo){
 }
 ```
 
-![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/archivoConfiguracion.png)
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_2/img/seminario_video.png)
 
 
 
 **3. Realizar un programa en lenguaje C que llame a la función de interrupción correspondiente a la lectura de caracteres desde teclado. Ejecutarlo para leer pulsaciones de teclas y mostrarlas por pantalla usando otra función de interrupción.**
 
 
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_2/img/pulsaTeclas.png)
 
-
-![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_1/img/archivoConfiguracion.png)
+![imagen](https://github.com/jomoca/PDIH/blob/master/Seminario_2/img/pulsateclas.png)
