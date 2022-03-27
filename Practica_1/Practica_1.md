@@ -16,7 +16,7 @@ void gotoxy(int x, int y){
 
 ```
 
-![imagen]()
+![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_1/img/gotoxy.png)
 
 **setcursortype(): fijar el aspecto del cursor, debe admitir tres valores: INVISIBLE, NORMAL y GRUESO.**
 
