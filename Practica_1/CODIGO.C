@@ -12,12 +12,9 @@
 #include <dos.h>
 #define BYTE unsigned char
 #include <stdio.h>
-#define VGA_256_COLOR_MODE  0x13   /* use to set 256-color mode. */
 #define VIDEO_INT           0x10      /* the BIOS video interrupt. */
 #define WRITE_DOT           0x0C      /* BIOS func to plot a pixel. */
-#define SCREEN_WIDTH        320       /* width in pixels of mode 0x13 */
-#define SCREEN_HEIGHT       200       /* height in pixels of mode 0x13 */
-#define NUM_COLORS          256       /* number of colors in mode 0x13 */
+
 
 
 BYTE MODOTEXTO = 3;
