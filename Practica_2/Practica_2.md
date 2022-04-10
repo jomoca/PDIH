@@ -13,6 +13,3 @@
 
 
 **2. Crear un juego sencillo tipo “pong” partiendo del ejemplo del movimiento de la pelotita. Al iniciar el juego debe mostrarse un recuadro en una pantalla de bienvenida explicando los controles de juego. Tras una pausa se inicia el juego en sí mismo.**
-
-
-![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_1/img/cursor_grueso.png)
