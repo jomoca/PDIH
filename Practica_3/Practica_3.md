@@ -1,4 +1,4 @@
-#Practica 2
+#Practica 3
 
 ##Ejercicios:
 
@@ -21,5 +21,5 @@ apaguen los LEDs amarillo y verde.**
 
 ![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2015-45-34.png)
 ![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2015-45-26.png)
-![imagen]()
+![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2015-45-50.png)
 
