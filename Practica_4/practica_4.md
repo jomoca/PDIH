@@ -12,13 +12,10 @@ Concretamente, en esta práctica se realizarán los siguientes archivos PS:**
 de una casita, similar al siguiente:**
 
 
-![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2014-54-14.png)
+![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_4/img/Captura%20de%20pantalla%20de%202022-05-25%2010-53-00.png)
 
 
 **2. Página en la que diseñes una tarjeta de visita, similar a la siguiente:**
 
 
-![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2015-45-34.png)
-![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2015-45-26.png)
-![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_3/img/Captura%20de%20pantalla%20de%202022-05-08%2015-45-50.png)
-
+![imagen](https://github.com/jomoca/PDIH/blob/master/Practica_4/img/Captura%20de%20pantalla%20de%202022-05-25%2010-53-28.png)
